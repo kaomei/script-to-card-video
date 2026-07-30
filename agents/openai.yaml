@@ -1,0 +1,13 @@
+interface:
+  display_name: "竖屏动态卡片视频"
+  short_description: "用编辑插画或霓虹信息图模板生成可编辑竖屏口播视频"
+  default_prompt: "Use $script-to-card-video to turn this Chinese talking script into an editable 9:16 card video; ask me to choose editorial-illustrated or neon-infographic when I have not specified a template, and do not export it."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "chatcut"
+      description: "ChatCut MCP server for creating and verifying editable video timelines"
+
+policy:
+  allow_implicit_invocation: true
