@@ -11,7 +11,7 @@
 [![Canvas](https://img.shields.io/badge/canvas-1080×1920-43E7FF?style=flat-square)](#已知边界)
 [![License](https://img.shields.io/badge/license-MIT-F2772B?style=flat-square)](LICENSE)
 
-![编辑纸感与霓虹信息图模板的真实输出对比](docs/assets/hero-overview.png)
+![编辑纸感与霓虹信息图模板的真实输出对比](https://cdn.jsdelivr.net/gh/kaomei/script-to-card-video@735f86c7e1702a37fcc33562762b0f9129c0cacf/docs/assets/hero-overview.png)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 暖色纸张、编辑排版、递进关键词，以及每个场景一张语义明确的手绘矢量插画。
 
-![编辑纸感模板的三个不同标题、关键词和插画场景](docs/assets/editorial-preview.png)
+![编辑纸感模板的三个不同标题、关键词和插画场景](https://cdn.jsdelivr.net/gh/kaomei/script-to-card-video@735f86c7e1702a37fcc33562762b0f9129c0cacf/docs/assets/editorial-preview.png)
 
 适合无需本人出镜的观点表达、个人故事、知识分享与商业思考短视频。
 
@@ -40,7 +40,7 @@
 
 深色科技背景、动态文字，以及图表、节点网络、指标、对比和步骤流程组件。它不生成人物插画，而是让信息关系本身成为视觉。
 
-![霓虹信息图模板的三个不同标题与信息图场景](docs/assets/neon-preview.png)
+![霓虹信息图模板的三个不同标题与信息图场景](https://cdn.jsdelivr.net/gh/kaomei/script-to-card-video@735f86c7e1702a37fcc33562762b0f9129c0cacf/docs/assets/neon-preview.png)
 
 适合 AI、产品、商业、数据、流程、工具教程与技术内容。
 
@@ -134,7 +134,7 @@ Use $script-to-card-video with the neon-infographic template.
 
 ## 工作原理
 
-![从口播稿到可编辑时间线的工作流](docs/assets/workflow.svg)
+![从口播稿到可编辑时间线的工作流](https://cdn.jsdelivr.net/gh/kaomei/script-to-card-video@735f86c7e1702a37fcc33562762b0f9129c0cacf/docs/assets/workflow.svg)
 
 1. **读取口播与音频**：优先使用你提供的录音；没有录音时才生成 TTS。
 2. **获得真实时间轴**：通过转录获取语音时间，不凭空估算字幕时间。
